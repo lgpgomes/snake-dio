@@ -8,7 +8,7 @@ O jogo da cobrinha é um jogo que ficou conhecido por diversas versões cuja ver
 
 ## Jogue 🎮
 
-* [Clique aqui para jogar](https://jogodacobrinha-dio.netlify.app/)
+* [Clique aqui para jogar](https://dio-snakegame.netlify.app/)
 
 
 ## Licença 📄
