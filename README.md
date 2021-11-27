@@ -6,10 +6,7 @@ O jogo da cobrinha é um jogo que ficou conhecido por diversas versões cuja ver
 
 ![jogo da cobrinha](preview.gif)
 
-## Jogue 🎮
-
-* [Clique aqui para jogar](https://dio-snakegame.netlify.app/)
-
+- Para rodar, abra a index.html.
 
 ## Licença 📄
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
